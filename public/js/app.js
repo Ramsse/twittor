@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = "/pwa/sw.js";
+var swLocation = "/twittor/sw.js";
 
 var swReg;
 
